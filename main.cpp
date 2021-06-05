@@ -141,6 +141,7 @@ int main()
 			cout<<M<<endl;
 			SetConsoleTextAttribute(hConsole,15);
 		}
+	}
 	else
 	{
 		cout<< "Input the hash number of plain text: ";
@@ -159,6 +160,3 @@ int main()
 	}
 	
 }
-
-
-
